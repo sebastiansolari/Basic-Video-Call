@@ -7,7 +7,6 @@
 
 using namespace agora::rtc;
 
-// ������λ
 #define AG_ENGFLAG_ENNETTEST	0x00000001
 #define AG_ENGFLAG_ECHOTEST		0x00000002
 #define AG_ENGFLAG_SPKPHTEST	0x00000004
